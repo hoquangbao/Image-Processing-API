@@ -1,0 +1,19 @@
+{
+  "name": "image-processing",
+  "version": "1.0.0",
+  "description": "Images Processing API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoquangbao/Image-Processing-API.git"
+  },
+  "author": "BaoHQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoquangbao/Image-Processing-API/issues"
+  },
+  "homepage": "https://github.com/hoquangbao/Image-Processing-API#readme"
+}
